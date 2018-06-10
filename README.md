@@ -18,11 +18,11 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 25
 Server-side Programming with Node.js for Beginners
-[ ] 1. The Course Overview 1:43
-[ ] 2. Node.js Overview 4:30
-[ ] 3. Overview of Command Line and Version Control 18:28
-[ ] 4. Installation and Setup of Node.js 2:43
-[ ] 5. JavaScript Syntax 11:35
+[x] 1. The Course Overview 1:43
+[x] 2. Node.js Overview 4:30
+[x] 3. Overview of Command Line and Version Control 18:28
+[x] 4. Installation and Setup of Node.js 2:43
+[x] 5. JavaScript Syntax 11:35
 [ ] 6. Introduction to NPM 4:57
 [ ] 7. Building Your First Server with Node.js 6:12
 [ ] 8. Modules 8:03
@@ -120,8 +120,8 @@ Mastering Node.js
 Section: 4
 0 / 42
 Node.js Projects
-[ ] 88. Installing Node.js and Express Generator 3:02
-[ ] 89. Building the Baseline 4:47
+[x] 88. Installing Node.js and Express Generator 3:02
+[x] 89. Building the Baseline 4:47
 [ ] 90. Changing the Application's Structure 4:01
 [ ] 91. Restructuring the Views Folder Using Partials 3:10
 [ ] 92. Adding Templates for Login, Sign-Up, and Profile 2:12
